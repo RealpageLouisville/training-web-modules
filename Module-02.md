@@ -75,6 +75,7 @@ Create a new branch in your PHP Git repository called `advanced` and push your c
 2. Create a new PHP file called `main.php` which uses these classes. Be creative and show the following concepts (you can simply echo strings for the function logic):
     - Public, Protected and Private functions
     - Public, Protected and Private properties
+    - Strongly typed nullable and non-nullable parameters and return values
     - Overwriting inherited functions
     - Overwriting inherited functions but still executing the parent's functionality for that function before implementing the child's logic
     - Refactor your code to show the use of namespaces using the keywords `use` and `as`

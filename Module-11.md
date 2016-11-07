@@ -50,7 +50,7 @@ echo 'Hello, World!'
 ```
 20. Update the _Dockerfile_ so that _welcome.sh_ is added to `/home/welcome.sh` when the container is built.
 21. Rebuild the container following the the changes.
-22. Run the _welcome.sh_ script within the container using `docker run`, and paste the output into _docker-module.txt_.
+22. Update the _Dockerfile_ so that _welcome.sh_ is run as the primary process within the container when the container is run.  Run the container with `docker run` and paste the output into _docker-module.txt_.
 23. Commit your changes and push up.
 24. Update the _Dockerfile_ so that it outputs "Hello, World!" when only running `docker run realpage/alpine-bash:3.3`.
 25. Rebuild the container and run it via `docker run realpage/alpine-bash:3.3`.

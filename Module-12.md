@@ -48,4 +48,4 @@ echo 'Hello, Docker Compose!'
 
 When you are done, verify you have pushed your changes to GitHub. Please create a tag called v1.0 with a message of "ready for review" in your docker compose repo. Be sure your tags are pushed to the remote repository and are visible in GitHub.
 
-Create an issue titled *Review Module 12 - Docker Compose* and @mention your mentor and team leader.
+Create an issue titled **Review Module 12 - Docker Compose** and `@mention` your mentor and team leader.

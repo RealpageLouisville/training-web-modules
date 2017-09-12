@@ -16,7 +16,7 @@ Prior to completing the module below it is highly recommended that you look at t
 ## The Test
 
 1. Create a new branch in your `php-final` Git repo called `TDD` and commit all the work from this module there.
-2. Be sure to write your code to conform to the (**PSR-2**)[http://www.php-fig.org/psr/psr-2/] spec.
+2. Be sure to write your code to conform to the [**PSR-2**](http://www.php-fig.org/psr/psr-2/) spec.
 3. Use Composer to install Mockery, PHPUnit and fzaninotto/Faker. Your `composer.json` and `composer.lock` files should be part of this project.
 4. Add a folder called `tests` where all your test code will go.
 5. Add a test class for your previous model.
